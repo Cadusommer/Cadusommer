@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cadu Sommer
 
-- 🌱 Desenvolver Front-End HTML|CSS|JavaScript
+- 🌱 Desenvolver Front-End HTML | CSS | JavaScript
 - 📫 Contate-me no email: cadusommer@gmail.com
 
 <div style="display: inline_block"><br>
