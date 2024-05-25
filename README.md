@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cadu Sommer
 
-- 🌱 Developer Front-End HTML | CSS | JavaScript
+- 🌱 Developer Front-End HTML | CSS | JavaScript | React.Js | Node.Js
 - 📫 Contate-me no email: cadusommer@gmail.com
 
 <div style="display: inline_block"><br>
