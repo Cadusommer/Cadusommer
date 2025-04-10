@@ -1,4 +1,4 @@
-### Olá sou o Cadu Sommer, estudante de Análise e desenvolvimento de sistemas e tenho 21 anos. Desde que ingressei na área de programação, estudo diariamente para conseguir minha primeira oportunidade de emprego. Tenho facilidade de aprendizado, boa comunicação e a todo momento busco me aprimorar cada vez mais.
+# Olá sou o Cadu Sommer, estudante de Análise e desenvolvimento de sistemas e tenho 21 anos. Desde que ingressei na área de programação, estudo diariamente para conseguir minha primeira oportunidade de emprego. Tenho facilidade de aprendizado, boa comunicação e a todo momento busco me aprimorar cada vez mais.
 
 - 🌱 Desenvolvedor Front-end HTML | CSS | TailwindCSS | JavaScript | React.js | Git | GitHub
 - 📫 Contate-me no email: cadusommer@gmail.com
